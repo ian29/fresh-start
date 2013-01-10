@@ -1,4 +1,4 @@
 fresh-start
 ===========
 
-Starting point for Jekyll projects.
+Extremely barebones starting point for responsive sites built on Jekyll.
