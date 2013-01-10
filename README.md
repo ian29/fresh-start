@@ -1,4 +1,4 @@
 fresh-start
 ===========
 
-Starting point for Jekyll projects
+Starting point for Jekyll projects.
